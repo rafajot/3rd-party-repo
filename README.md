@@ -1,2 +1,2 @@
 # 3rd-party-repo
-v1.0
+v1.1
